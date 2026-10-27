@@ -1,8 +1,6 @@
 {
-  "seq": 1793111395,
-  "updatedAt": 1793111395895,
-  "revoked": [
-    "ad755f2c3ac6b035e5cbd797"
-  ],
-  "sig": "_4ovs0Wt2xzVjlwdE5uAWJMmNQclfrTdpJscjFL53pQBxA68GNLRSHnJneIjUhp8AdwCbIi3t3DiXKSMcdt0AA"
+  "seq": 1793111401,
+  "updatedAt": 1793111401057,
+  "revoked": [],
+  "sig": "AiouNFHne0O90HvQxro-jCgxntUDXrWOD0RomOy1P9Im0r0eXVG7MJMIxa8FeLMUfkKrNukeDe3a_zZiOYJgBA"
 }
